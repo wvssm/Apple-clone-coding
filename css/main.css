@@ -1,0 +1,27 @@
+/* COMMON */
+@font-face {
+    font-family: apple_gothic;
+    src: url(./fonts/AppleSDGothicNeoL.ttf);
+}
+body{
+    font-family: apple_gothic;
+}
+.inner{
+    width: 2560px;
+}
+
+/* HEADER */
+.header-container{
+}
+.header-container .main-menu{
+    display: flex;
+}
+.header-container .main-menu .apple{
+    
+}
+.header-container .main-menu .search{
+    
+}
+.header-container .main-menu .shopping-basket{
+    
+}
